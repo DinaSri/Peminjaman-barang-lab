@@ -357,7 +357,7 @@
 <div id="footer">
   <div class="container text-center">
     <div class="fnav">
-      <p>Copyright &copy; 2016 Studio7. Designed by <a href="http://www.templatewire.com" rel="nofollow">TemplateWire</a></p>
+      <p> 10120902 - DINA SRI HARTINI</p>
     </div>
   </div>
 </div>
